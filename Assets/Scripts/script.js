@@ -25,6 +25,10 @@ let featured = [
 
 ];
 
+function appear(event){
+    
+}
+
 let featureGroup = document.querySelector(".featured");
 featured.forEach((data) => {
   featureGroup.innerHTML += `<div class="card border-primary m-3 mx-4 mt-5 ms-5" style="width:380px;   ">
@@ -36,3 +40,5 @@ featured.forEach((data) => {
      
     </div>`;
 });
+
+
