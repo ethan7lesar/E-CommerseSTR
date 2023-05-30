@@ -16,8 +16,7 @@ let featured = [
 
   {
     id: 3,
-    Image:
-      "https://i.postimg.cc/q7QrtBw5/dmitry-chernyshov-m-P7a-PSUm7a-E-unsplash1.jpg",
+    Image: "https://i.postimg.cc/q7QrtBw5/dmitry-chernyshov-m-P7a-PSUm7a-E-unsplash1.jpg",
     name: `MacBook Pro`,
    
   },
@@ -26,7 +25,7 @@ let featured = [
 ];
 
 function appear(event){
-    
+
 }
 
 let featureGroup = document.querySelector(".featured");
